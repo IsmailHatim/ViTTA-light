@@ -7,6 +7,7 @@ This repository is a lightweight reimplementation of the method described in the
 > Published at CVPR 2023  
 > [Link to the Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf)  
 > [Link to the original git repo](https://github.com/wlin-at/ViTTA)  
+> [Link to the project page](https://wlin-at.github.io/vitta)
 
 The goal of this project is to experiment with the ViTTA method on a smaller scale using the UCF101 dataset. This implementation is designed to approximate the key concepts and results of the ViTTA approach without requiring fully trained models or extensive computational resources.
 
