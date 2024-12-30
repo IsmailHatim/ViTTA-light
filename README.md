@@ -10,6 +10,9 @@ This repository is a lightweight reimplementation of the method described in the
 
 The goal of this project is to experiment with the ViTTA method on a smaller scale using the UCF101 dataset. This implementation is designed to approximate the key concepts and results of the ViTTA approach without requiring fully trained models or extensive computational resources.
 
+The Pipeline:
+<img src="https://wlin-at.github.io/media/vitta/pipeline.png">
+
 ## Features
 
 - Implementation of a simplified version of ViTTA's test-time adaptation.
